@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+.count button{
+  @apply border rounded-lg bg-blue-500 hover:bg-blue-400 px-2 py-1 cursor-pointer
+}
+
+.task{
+  @apply grid justify-center gap-2 items-center
+}
+.task input{
+ @apply border rounded-sm w-full
+}
