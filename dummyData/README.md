@@ -1,12 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Install  => npm i axios  
+callback queue link : <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df1c0fd0-db68-45e1-89f2-878bbe07d6d6" />
+sync vs async img : https://api.frontendlead.com/wp-content/uploads/2024/03/Javascript-event-loop.png
+gpt link : https://chatgpt.com/share/6884db3b-9338-800c-aa7e-abcb99e4897e
